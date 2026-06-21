@@ -1,4 +1,4 @@
-package dev.jorge.projects.email.entities;
+package dev.jorge.projects.email.model;
 
 import com.github.f4b6a3.uuid.UuidCreator;
 import dev.jorge.projects.email.enums.StatusEmail;
@@ -11,7 +11,7 @@ import java.time.LocalDateTime;
 import java.util.UUID;
 
 @Entity
-@Table(name = "emails")
+@Table(name = "tb_emails")
 @Getter
 @Setter
 @NoArgsConstructor

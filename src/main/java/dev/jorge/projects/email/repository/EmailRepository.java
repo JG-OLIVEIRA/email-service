@@ -1,6 +1,6 @@
-package dev.jorge.projects.email.repositories;
+package dev.jorge.projects.email.repository;
 
-import dev.jorge.projects.email.entities.Email;
+import dev.jorge.projects.email.model.Email;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.UUID;

@@ -1,4 +1,4 @@
-package dev.jorge.projects.email.configs;
+package dev.jorge.projects.email.config;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.springframework.amqp.core.Queue;

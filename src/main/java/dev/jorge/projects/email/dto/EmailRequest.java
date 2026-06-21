@@ -1,4 +1,4 @@
-package dev.jorge.projects.email.dtos.requests;
+package dev.jorge.projects.email.dto;
 
 import java.util.UUID;
 
